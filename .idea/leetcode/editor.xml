@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1470]重新排列数组.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1470]重新排列数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1470" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1470]重新排列数组.ts" />
+              <option name="titleSlug" value="shuffle-the-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1562]查找大小为 M 的最新分组.ts">
           <value>
             <LeetcodeEditor>
