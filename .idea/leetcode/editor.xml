@@ -69,6 +69,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1]两数之和.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1]两数之和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1]两数之和.ts" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[217]存在重复元素.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[217]存在重复元素.md" />
+              <option name="frontendQuestionId" value="leetcode.cn217" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[217]存在重复元素.ts" />
+              <option name="titleSlug" value="contains-duplicate" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[2]两数相加.ts">
           <value>
             <LeetcodeEditor>
@@ -91,6 +113,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[654]最大二叉树.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[654]最大二叉树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn654" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[654]最大二叉树.ts" />
+              <option name="titleSlug" value="maximum-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[655]输出二叉树.ts">
           <value>
             <LeetcodeEditor>
@@ -110,6 +143,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[662]二叉树最大宽度.ts" />
               <option name="titleSlug" value="maximum-width-of-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[998]最大二叉树 II.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[998]最大二叉树 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn998" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[998]最大二叉树 II.ts" />
+              <option name="titleSlug" value="maximum-binary-tree-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
