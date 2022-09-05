@@ -102,6 +102,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1582]二进制矩阵中的特殊位置.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1582]二进制矩阵中的特殊位置.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1582" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1582]二进制矩阵中的特殊位置.ts" />
+              <option name="titleSlug" value="special-positions-in-a-binary-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1]两数之和.ts">
           <value>
             <LeetcodeEditor>
@@ -165,6 +176,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[646]最长数对链.ts" />
               <option name="titleSlug" value="maximum-length-of-pair-chain" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[652]寻找重复的子树.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[652]寻找重复的子树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn652" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[652]寻找重复的子树.ts" />
+              <option name="titleSlug" value="find-duplicate-subtrees" />
             </LeetcodeEditor>
           </value>
         </entry>
