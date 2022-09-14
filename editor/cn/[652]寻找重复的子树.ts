@@ -59,5 +59,13 @@
 
 function findDuplicateSubtrees(root: TreeNode | null): Array<TreeNode | null> {
 
-};
+}
+
+function dfs(node: TreeNode | null) {
+    const map = new Map()
+    const repeat = new Set()
+    let index = 0
+    
+}
+
 //leetcode submit region end(Prohibit modification and deletion)
