@@ -135,6 +135,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1619]删除某些元素后的数组均值.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1619]删除某些元素后的数组均值.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1619" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1619]删除某些元素后的数组均值.ts" />
+              <option name="titleSlug" value="mean-of-array-after-removing-some-elements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1]两数之和.ts">
           <value>
             <LeetcodeEditor>
