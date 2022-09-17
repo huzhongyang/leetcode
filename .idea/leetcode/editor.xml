@@ -146,6 +146,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1624]两个相同字符之间的最长子字符串.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1624]两个相同字符之间的最长子字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1624" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1624]两个相同字符之间的最长子字符串.ts" />
+              <option name="titleSlug" value="largest-substring-between-two-equal-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1]两数之和.ts">
           <value>
             <LeetcodeEditor>
