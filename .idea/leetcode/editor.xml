@@ -190,6 +190,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1636]按照频率将数组升序排序.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1636]按照频率将数组升序排序.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1636" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1636]按照频率将数组升序排序.ts" />
+              <option name="titleSlug" value="sort-array-by-increasing-frequency" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1]两数之和.ts">
           <value>
             <LeetcodeEditor>
