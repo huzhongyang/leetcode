@@ -190,6 +190,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[160]相交链表.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[160]相交链表.md" />
+              <option name="frontendQuestionId" value="leetcode.cn160" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[160]相交链表.ts" />
+              <option name="titleSlug" value="intersection-of-two-linked-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1619]删除某些元素后的数组均值.ts">
           <value>
             <LeetcodeEditor>
