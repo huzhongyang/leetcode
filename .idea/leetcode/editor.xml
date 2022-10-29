@@ -245,6 +245,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1773]统计匹配检索规则的物品数量.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1773]统计匹配检索规则的物品数量.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1773" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1773]统计匹配检索规则的物品数量.ts" />
+              <option name="titleSlug" value="count-items-matching-a-rule" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1790]仅执行一次字符串交换能否使两个字符串相等.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1790]仅执行一次字符串交换能否使两个字符串相等.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1790" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1790]仅执行一次字符串交换能否使两个字符串相等.ts" />
+              <option name="titleSlug" value="check-if-one-string-swap-can-make-strings-equal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1]两数之和.ts">
           <value>
             <LeetcodeEditor>
