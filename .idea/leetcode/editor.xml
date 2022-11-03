@@ -256,6 +256,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1668]最大重复子字符串.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1668]最大重复子字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1668" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1668]最大重复子字符串.ts" />
+              <option name="titleSlug" value="maximum-repeating-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[168]Excel表列名称.ts">
           <value>
             <LeetcodeEditor>
