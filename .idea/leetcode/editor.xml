@@ -245,6 +245,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1646]获取生成数组中的最大值.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1646]获取生成数组中的最大值.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1646" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1646]获取生成数组中的最大值.ts" />
+              <option name="titleSlug" value="get-maximum-in-generated-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1662]检查两个字符串数组是否相等.ts">
           <value>
             <LeetcodeEditor>
@@ -275,6 +286,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[168]Excel表列名称.ts" />
               <option name="titleSlug" value="excel-sheet-column-title" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1704]判断字符串的两半是否相似.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1704]判断字符串的两半是否相似.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1704" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1704]判断字符串的两半是否相似.ts" />
+              <option name="titleSlug" value="determine-if-string-halves-are-alike" />
             </LeetcodeEditor>
           </value>
         </entry>
