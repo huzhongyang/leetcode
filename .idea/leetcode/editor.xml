@@ -652,6 +652,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[剑指 Offer 25]合并两个排序的链表.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[剑指 Offer 25]合并两个排序的链表.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 25" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[剑指 Offer 25]合并两个排序的链表.ts" />
+              <option name="titleSlug" value="he-bing-liang-ge-pai-xu-de-lian-biao-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
