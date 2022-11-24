@@ -28,7 +28,7 @@
 
 //leetcode submit region begin(Prohibit modification and deletion)
 function majorityElement(nums: number[]): number {
-    const hash = new Map()
+    const hash: Map<number, number> = new Map()
     for (const num of nums) {
         hash.has(num)
         ? hash.set(num, hash.get(num) + 1)
