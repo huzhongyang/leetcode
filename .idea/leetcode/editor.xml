@@ -740,6 +740,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[剑指 Offer 40]最小的k个数.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[剑指 Offer 40]最小的k个数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 40" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[剑指 Offer 40]最小的k个数.ts" />
+              <option name="titleSlug" value="zui-xiao-de-kge-shu-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
