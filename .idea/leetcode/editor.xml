@@ -333,6 +333,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1758]生成交替二进制字符串的最少操作数.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1758]生成交替二进制字符串的最少操作数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1758" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1758]生成交替二进制字符串的最少操作数.ts" />
+              <option name="titleSlug" value="minimum-changes-to-make-alternating-binary-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1773]统计匹配检索规则的物品数量.ts">
           <value>
             <LeetcodeEditor>
