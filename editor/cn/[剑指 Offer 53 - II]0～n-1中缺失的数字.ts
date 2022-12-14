@@ -25,20 +25,20 @@
 
 //leetcode submit region begin(Prohibit modification and deletion)
 function missingNumber(nums: number[]): number {
-    let pre = -1
-    for (const num of nums) {
-        if ((num - pre) !== 1) {
-            return pre + 1
-        }
-        pre = num
+    let left = 0,
+        right = nums.length - 1
+    while (left <= right) {
+        const mid = left + Math.floor(right - left >> 1)
+        nums[mid] !== mid ? right = mid - 1 : left = mid + 1
     }
-    return nums.at(-1) + 1
+    return left
 }
 
 //leetcode submit region end(Prohibit modification and deletion)
 
 console.log(missingNumber([0]))
 console.log(missingNumber([1]))
+console.log(missingNumber([0, 2]))
 console.log(missingNumber([0, 1]))
-console.log(missingNumber([0, 1, 3]))
+console.log(missingNumber([0, 1, 2]))
 console.log(missingNumber([0, 1, 2, 3, 4, 5, 6, 8]))
