@@ -839,6 +839,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[剑指 Offer 57 - II]和为s的连续正数序列.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[剑指 Offer 57 - II]和为s的连续正数序列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 57 - II" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[剑指 Offer 57 - II]和为s的连续正数序列.ts" />
+              <option name="titleSlug" value="he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[剑指 Offer 57]和为s的两个数字.ts">
           <value>
             <LeetcodeEditor>
