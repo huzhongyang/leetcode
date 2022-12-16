@@ -905,6 +905,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[剑指 Offer II 018]有效的回文.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[剑指 Offer II 018]有效的回文.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer II 018" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[剑指 Offer II 018]有效的回文.ts" />
+              <option name="titleSlug" value="XltzEq" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
