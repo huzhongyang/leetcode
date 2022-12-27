@@ -399,6 +399,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[2027]转换字符串的最少操作次数.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2027]转换字符串的最少操作次数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2027" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[2027]转换字符串的最少操作次数.ts" />
+              <option name="titleSlug" value="minimum-moves-to-convert-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[217]存在重复元素.ts">
           <value>
             <LeetcodeEditor>
