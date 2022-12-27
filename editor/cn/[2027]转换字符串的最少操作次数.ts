@@ -45,11 +45,9 @@
 
 //leetcode submit region begin(Prohibit modification and deletion)
 function minimumMoves(s: string): number {
-    let temp = '',
-        res = 0
+    let res = 0
     for (let i = 0, len = s.length; i < len; i++) {
         if (s[i] === 'X') {
-            temp = i + 3 > len ? s.substring(i) : s.substring(i, i + 3)
             res += 1
             i += 2
         }
