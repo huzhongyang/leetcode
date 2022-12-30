@@ -1015,6 +1015,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[剑指 Offer II 069]山峰数组的顶部.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[剑指 Offer II 069]山峰数组的顶部.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer II 069" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[剑指 Offer II 069]山峰数组的顶部.ts" />
+              <option name="titleSlug" value="B1IidL" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
