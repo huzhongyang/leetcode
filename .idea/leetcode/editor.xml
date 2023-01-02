@@ -69,6 +69,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1362]最接近的因数.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1362]最接近的因数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1362" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1362]最接近的因数.ts" />
+              <option name="titleSlug" value="closest-divisors" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[136]只出现一次的数字.ts">
           <value>
             <LeetcodeEditor>
@@ -1045,6 +1056,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[剑指 Offer II 072]求平方根.ts" />
               <option name="titleSlug" value="jJ0w9p" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[剑指 Offer II 075]数组相对排序.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[剑指 Offer II 075]数组相对排序.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer II 075" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[剑指 Offer II 075]数组相对排序.ts" />
+              <option name="titleSlug" value="0H97ZC" />
             </LeetcodeEditor>
           </value>
         </entry>
