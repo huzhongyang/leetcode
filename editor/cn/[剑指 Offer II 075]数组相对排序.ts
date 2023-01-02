@@ -40,29 +40,19 @@
 
 //leetcode submit region begin(Prohibit modification and deletion)
 function relativeSortArray(arr1: number[], arr2: number[]): number[] {
-    const hash = new Map()
-    for (const num1 of arr1) {
-        if (hash.has(num1)) {
-            hash.set(num1, hash.get(num1) + 1)
+    return arr1.sort((a, b) => {
+        const i1 = arr2.indexOf(a),
+            i2 = arr2.indexOf(b)
+        if (i1 !== -1 && i2 !== -1) {
+            return i1 - i2
+        } else if (i1 === -1 && i2 === -1) {
+            return a - b
         } else {
-            hash.set(num1, 1)
+            return i1 === -1 ? 1 : -1
         }
-    }
-    const res = []
-    for (const num2 of arr2) {
-        for (let i = 0, len = hash.get(num2); i < len; i++) {
-            res.push(num2)
-        }
-        hash.delete(num2)
-    }
-    for (const num3 of Array.from(hash.keys()).sort((a, b) => a - b)) {
-        for (let i = 0, len = hash.get(num3); i < len; i++) {
-            res.push(num3)
-        }
-    }
-    return res
+    })
 }
 
 //leetcode submit region end(Prohibit modification and deletion)
 
-relativeSortArray([2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19], [2, 1, 4, 3, 9, 6])
+console.log(relativeSortArray([2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19], [2, 1, 4, 3, 9, 6]))
