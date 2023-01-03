@@ -421,6 +421,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[2042]检查句子中的数字是否递增.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2042]检查句子中的数字是否递增.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2042" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[2042]检查句子中的数字是否递增.ts" />
+              <option name="titleSlug" value="check-if-numbers-are-ascending-in-a-sentence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[217]存在重复元素.ts">
           <value>
             <LeetcodeEditor>
