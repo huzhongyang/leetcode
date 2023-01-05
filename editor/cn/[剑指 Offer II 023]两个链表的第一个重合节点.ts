@@ -92,25 +92,13 @@
 
 function getIntersectionNode(headA: ListNode | null, headB: ListNode | null): ListNode | null {
     let nodeA = headA,
-        nodeB = headB,
-        countA = 0,
-        countB = 0
-    while (nodeA !== nodeB && countA < 2 && countB < 2) {
-        if (nodeA.next) {
-            nodeA = nodeA.next
-        } else {
-            countA += 1
-            nodeA = headB
-        }
-        if (nodeB.next) {
-            nodeB = nodeB.next
-        } else {
-            countB += 1
-            nodeB = headA
-        }
+        nodeB = headB
+    // 若没有交点, 则走了 m + n 步后都为 null
+    while (nodeA !== nodeB) {
+        nodeA = nodeA === null ? headB : nodeA.next
+        nodeB = nodeB === null ? headA : nodeB.next
     }
-    return nodeA === nodeB ? nodeA : null
+    return nodeA
 }
 
 //leetcode submit region end(Prohibit modification and deletion)
-console.log(1 === 1 && 2 === 22 && 3 || 4)
