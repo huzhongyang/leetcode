@@ -1235,6 +1235,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[面试题 01.09]字符串轮转.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[面试题 01.09]字符串轮转.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 01.09" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[面试题 01.09]字符串轮转.ts" />
+              <option name="titleSlug" value="string-rotation-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/string-to-url-lcci-2023_02_04_11:36:14.ts">
           <value>
             <LeetcodeEditor>
