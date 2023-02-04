@@ -34,14 +34,11 @@
 
 //leetcode submit region begin(Prohibit modification and deletion)
 function isFlipedString(s1: string, s2: string): boolean {
-    if (s1.length !== s2.length) return false
-    if (s1 === s2) return true
-    for (let i = 0, len = s1.length; i < len; i++) {
-        if (s1.slice(i) + s1.slice(0, i) === s2) return true
-    }
-    return false
+    return s1.length === s2.length && (s2 + s2).includes(s1)
 }
 
 //leetcode submit region end(Prohibit modification and deletion)
 
 console.log(isFlipedString('waterbottle', 'erbottlewat'))
+console.log(isFlipedString('', ''))
+console.log(isFlipedString('ws', 'w'))
