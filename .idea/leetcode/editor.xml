@@ -487,6 +487,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[2068]检查两个字符串是否几乎相等.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2068]检查两个字符串是否几乎相等.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2068" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[2068]检查两个字符串是否几乎相等.ts" />
+              <option name="titleSlug" value="check-whether-two-strings-are-almost-equivalent" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[217]存在重复元素.ts">
           <value>
             <LeetcodeEditor>
