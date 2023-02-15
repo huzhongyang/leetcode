@@ -1279,6 +1279,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[面试题 01.04]回文排列.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[面试题 01.04]回文排列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 01.04" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[面试题 01.04]回文排列.ts" />
+              <option name="titleSlug" value="palindrome-permutation-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[面试题 01.06]字符串压缩.ts">
           <value>
             <LeetcodeEditor>
