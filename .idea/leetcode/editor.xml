@@ -520,6 +520,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[2506]统计相似字符串对的数目.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2506]统计相似字符串对的数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2506" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[2506]统计相似字符串对的数目.ts" />
+              <option name="titleSlug" value="count-pairs-of-similar-strings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[290]单词规律.ts">
           <value>
             <LeetcodeEditor>
