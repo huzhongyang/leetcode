@@ -531,6 +531,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[2341]数组能形成多少数对.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2341]数组能形成多少数对.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2341" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[2341]数组能形成多少数对.ts" />
+              <option name="titleSlug" value="maximum-number-of-pairs-in-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[2351]第一个出现两次的字母.ts">
           <value>
             <LeetcodeEditor>
@@ -1331,6 +1342,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[面试题 02.02]返回倒数第 k 个节点.ts" />
               <option name="titleSlug" value="kth-node-from-end-of-list-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[面试题 02.03]删除中间节点.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[面试题 02.03]删除中间节点.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 02.03" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[面试题 02.03]删除中间节点.ts" />
+              <option name="titleSlug" value="delete-middle-node-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[面试题 02.07]链表相交.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[面试题 02.07]链表相交.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 02.07" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[面试题 02.07]链表相交.ts" />
+              <option name="titleSlug" value="intersection-of-two-linked-lists-lcci" />
             </LeetcodeEditor>
           </value>
         </entry>
