@@ -124,6 +124,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1232]缀点成线.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1232]缀点成线.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1232" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1232]缀点成线.ts" />
+              <option name="titleSlug" value="check-if-it-is-a-straight-line" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[125]验证回文串.ts">
           <value>
             <LeetcodeEditor>
