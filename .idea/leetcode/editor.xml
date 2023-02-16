@@ -69,6 +69,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1089]复写零.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1089]复写零.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1089" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1089]复写零.ts" />
+              <option name="titleSlug" value="duplicate-zeros" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[108]将有序数组转换为二叉搜索树.ts">
           <value>
             <LeetcodeEditor>
