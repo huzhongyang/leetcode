@@ -168,6 +168,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1389]按既定顺序创建目标数组.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1389]按既定顺序创建目标数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1389" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1389]按既定顺序创建目标数组.ts" />
+              <option name="titleSlug" value="create-target-array-in-the-given-order" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1403]非递增顺序的最小子序列.ts">
           <value>
             <LeetcodeEditor>
