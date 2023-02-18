@@ -267,6 +267,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1556]千位分隔数.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1556]千位分隔数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1556" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1556]千位分隔数.ts" />
+              <option name="titleSlug" value="thousand-separator" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1560]圆形赛道上经过次数最多的扇区.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1560]圆形赛道上经过次数最多的扇区.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1560" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1560]圆形赛道上经过次数最多的扇区.ts" />
+              <option name="titleSlug" value="most-visited-sector-in-a-circular-track" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1562]查找大小为 M 的最新分组.ts">
           <value>
             <LeetcodeEditor>
