@@ -608,6 +608,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[2178]拆分成最多数目的正偶数之和.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2178]拆分成最多数目的正偶数之和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2178" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[2178]拆分成最多数目的正偶数之和.ts" />
+              <option name="titleSlug" value="maximum-split-of-positive-even-integers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[217]存在重复元素.ts">
           <value>
             <LeetcodeEditor>
