@@ -586,6 +586,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[2176]统计数组中相等且可以被整除的数对.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2176]统计数组中相等且可以被整除的数对.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2176" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[2176]统计数组中相等且可以被整除的数对.ts" />
+              <option name="titleSlug" value="count-equal-and-divisible-pairs-in-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[2177]找到和为给定整数的三个连续整数.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2177]找到和为给定整数的三个连续整数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2177" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[2177]找到和为给定整数的三个连续整数.ts" />
+              <option name="titleSlug" value="find-three-consecutive-integers-that-sum-to-a-given-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[217]存在重复元素.ts">
           <value>
             <LeetcodeEditor>
