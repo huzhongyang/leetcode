@@ -38,30 +38,10 @@
 
 //leetcode submit region begin(Prohibit modification and deletion)
 function countPairs(nums: number[], k: number): number {
-    const hash = new Map<number, number[]>()
-    for (const index in nums) {
-        const i = Number(index)
-        if (hash.has(nums[i])) {
-            hash.set(nums[i], [...hash.get(nums[i]), i])
-        } else {
-            hash.set(nums[i], [i])
-        }
-    }
-    let res = 0
-    for (const items of hash.values()) {
-        res += divisibleByK(items, k)
-    }
-    return res
-}
-
-function divisibleByK(items: number[], k: number): number {
     let count = 0
-    const len = items.length
-    for (let i = 0; i < len - 1; i++) {
+    for (let i = 0, len = nums.length; i < len; i++) {
         for (let j = i + 1; j < len; j++) {
-            if ((items[j] * items[i]) % k === 0) {
-                count += 1
-            }
+            if (nums[i] === nums[j] && (i * j) % k === 0) count += 1
         }
     }
     return count
