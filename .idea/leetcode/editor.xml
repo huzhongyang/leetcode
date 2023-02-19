@@ -619,6 +619,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[228]汇总区间.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[228]汇总区间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn228" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[228]汇总区间.ts" />
+              <option name="titleSlug" value="summary-ranges" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[2325]解密消息.ts">
           <value>
             <LeetcodeEditor>
