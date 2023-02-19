@@ -839,6 +839,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[389]找不同.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[389]找不同.md" />
+              <option name="frontendQuestionId" value="leetcode.cn389" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[389]找不同.ts" />
+              <option name="titleSlug" value="find-the-difference" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[518]零钱兑换 II.ts">
           <value>
             <LeetcodeEditor>
