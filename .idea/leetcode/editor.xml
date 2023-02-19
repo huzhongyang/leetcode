@@ -531,6 +531,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1822]数组元素积的符号.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1822]数组元素积的符号.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1822" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1822]数组元素积的符号.ts" />
+              <option name="titleSlug" value="sign-of-the-product-of-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1827]最少操作使数组递增.ts">
           <value>
             <LeetcodeEditor>
@@ -616,6 +627,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[2178]拆分成最多数目的正偶数之和.ts" />
               <option name="titleSlug" value="maximum-split-of-positive-even-integers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[2179]统计数组中好三元组数目.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2179]统计数组中好三元组数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2179" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[2179]统计数组中好三元组数目.ts" />
+              <option name="titleSlug" value="count-good-triplets-in-an-array" />
             </LeetcodeEditor>
           </value>
         </entry>
