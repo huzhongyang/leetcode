@@ -608,17 +608,6 @@
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/editor/cn/[216]组合总和 III.ts">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[216]组合总和 III.md" />
-              <option name="frontendQuestionId" value="leetcode.cn216" />
-              <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/editor/cn/[216]组合总和 III.ts" />
-              <option name="titleSlug" value="combination-sum-iii" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[2176]统计数组中相等且可以被整除的数对.ts">
           <value>
             <LeetcodeEditor>
