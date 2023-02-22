@@ -762,6 +762,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[2451]差值数组不同的字符串.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2451]差值数组不同的字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2451" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[2451]差值数组不同的字符串.ts" />
+              <option name="titleSlug" value="odd-string-difference" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[2506]统计相似字符串对的数目.ts">
           <value>
             <LeetcodeEditor>
