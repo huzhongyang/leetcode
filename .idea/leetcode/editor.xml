@@ -113,6 +113,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[111]二叉树的最小深度.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[111]二叉树的最小深度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn111" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[111]二叉树的最小深度.ts" />
+              <option name="titleSlug" value="minimum-depth-of-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[118]杨辉三角.ts">
           <value>
             <LeetcodeEditor>
