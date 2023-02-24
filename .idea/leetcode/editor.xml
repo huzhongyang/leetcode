@@ -124,6 +124,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[112]路径总和.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[112]路径总和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn112" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[112]路径总和.ts" />
+              <option name="titleSlug" value="path-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[118]杨辉三角.ts">
           <value>
             <LeetcodeEditor>
@@ -770,6 +781,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[2351]第一个出现两次的字母.ts" />
               <option name="titleSlug" value="first-letter-to-appear-twice" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[2357]使数组中所有元素都等于零.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2357]使数组中所有元素都等于零.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2357" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[2357]使数组中所有元素都等于零.ts" />
+              <option name="titleSlug" value="make-array-zero-by-subtracting-equal-amounts" />
             </LeetcodeEditor>
           </value>
         </entry>
