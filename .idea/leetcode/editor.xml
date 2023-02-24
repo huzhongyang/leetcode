@@ -344,6 +344,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1588]所有奇数长度子数组的和.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1588]所有奇数长度子数组的和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1588" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1588]所有奇数长度子数组的和.ts" />
+              <option name="titleSlug" value="sum-of-all-odd-length-subarrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1592]重新排列单词间的空格.ts">
           <value>
             <LeetcodeEditor>
