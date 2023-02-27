@@ -190,6 +190,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1379]找出克隆二叉树中的相同节点.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1379]找出克隆二叉树中的相同节点.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1379" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1379]找出克隆二叉树中的相同节点.ts" />
+              <option name="titleSlug" value="find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1389]按既定顺序创建目标数组.ts">
           <value>
             <LeetcodeEditor>
