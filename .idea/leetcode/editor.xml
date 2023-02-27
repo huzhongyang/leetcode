@@ -190,6 +190,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1374]生成每种字符都是奇数个的字符串.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1374]生成每种字符都是奇数个的字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1374" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1374]生成每种字符都是奇数个的字符串.ts" />
+              <option name="titleSlug" value="generate-a-string-with-characters-that-have-odd-counts" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1379]找出克隆二叉树中的相同节点.ts">
           <value>
             <LeetcodeEditor>
