@@ -531,6 +531,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1729]求关注者的数量.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1729]求关注者的数量.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1729" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1729]求关注者的数量.ts" />
+              <option name="titleSlug" value="find-followers-count" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1732]找到最高海拔.ts">
           <value>
             <LeetcodeEditor>
@@ -539,6 +550,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[1732]找到最高海拔.ts" />
               <option name="titleSlug" value="find-the-highest-altitude" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1736]替换隐藏数字得到的最晚时间.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1736]替换隐藏数字得到的最晚时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1736" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1736]替换隐藏数字得到的最晚时间.ts" />
+              <option name="titleSlug" value="latest-time-by-replacing-hidden-digits" />
             </LeetcodeEditor>
           </value>
         </entry>
