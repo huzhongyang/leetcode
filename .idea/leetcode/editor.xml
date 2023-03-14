@@ -696,6 +696,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[2047]句子中的有效单词数.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2047]句子中的有效单词数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2047" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[2047]句子中的有效单词数.ts" />
+              <option name="titleSlug" value="number-of-valid-words-in-a-sentence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[2068]检查两个字符串是否几乎相等.ts">
           <value>
             <LeetcodeEditor>
