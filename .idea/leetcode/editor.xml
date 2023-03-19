@@ -322,6 +322,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1507]转变日期格式.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1507]转变日期格式.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1507" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1507]转变日期格式.ts" />
+              <option name="titleSlug" value="reformat-date" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1556]千位分隔数.ts">
           <value>
             <LeetcodeEditor>
