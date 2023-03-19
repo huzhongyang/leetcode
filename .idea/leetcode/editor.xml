@@ -267,6 +267,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1446]连续字符.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1446]连续字符.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1446" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1446]连续字符.ts" />
+              <option name="titleSlug" value="consecutive-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[144]二叉树的前序遍历.ts">
           <value>
             <LeetcodeEditor>
