@@ -38,10 +38,17 @@
 //leetcode submit region begin(Prohibit modification and deletion)
 function isPerfectSquare(num: number): boolean {
   if (num === 1) return true
-  for (let i = 2; i <= Math.floor(num / 2); i++) {
-    if (i * i === num) {
-      return true
+  let left  = 1,
+      right = num,
+      mid   = left + Math.floor((right - left) / 2)
+  while (left <= right) {
+    if (mid * mid === num) return true
+    if (mid * mid > num) {
+      right = mid - 1
+    } else {
+      left = mid + 1
     }
+    mid = left + Math.floor((right - left) / 2)
   }
   return false
 }
