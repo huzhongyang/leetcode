@@ -751,6 +751,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[205]同构字符串.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[205]同构字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn205" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[205]同构字符串.ts" />
+              <option name="titleSlug" value="isomorphic-strings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[2068]检查两个字符串是否几乎相等.ts">
           <value>
             <LeetcodeEditor>
@@ -1078,6 +1089,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[32]最长有效括号.ts" />
               <option name="titleSlug" value="longest-valid-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[345]反转字符串中的元音字母.ts">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[345]反转字符串中的元音字母.md" />
+              <option name="frontendQuestionId" value="leetcode.cn345" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[345]反转字符串中的元音字母.ts" />
+              <option name="titleSlug" value="reverse-vowels-of-a-string" />
             </LeetcodeEditor>
           </value>
         </entry>
